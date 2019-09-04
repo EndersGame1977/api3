@@ -1,0 +1,22 @@
+{
+  "name": "api3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EndersGame1977/api3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EndersGame1977/api3/issues"
+  },
+  "homepage": "https://github.com/EndersGame1977/api3#readme",
+  "dependencies": {
+    "gitignore": "^0.6.0"
+  }
+}
